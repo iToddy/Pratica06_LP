@@ -78,6 +78,7 @@ public class ManipuladorArquivo {
         		 break;
         	 case 4:
         		 
+        		 System.out.println("Menu fechado !");
         		 
         		 break;
         	default:	 
